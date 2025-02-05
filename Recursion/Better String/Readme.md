@@ -5,11 +5,11 @@
 |------------|-------------|-------------|
 | GeeksForGeeks | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | null |
 
-# Problem Statement
+## Problem Statement
 Given a pair of strings of equal lengths, Geek wants to find the better string. The better string is the string having more number of distinct subsequences.
 If both the strings have equal count of distinct subsequence then return str1.
 
-# Cpp
+## Cpp
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
