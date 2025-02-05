@@ -3,7 +3,7 @@
 ## Problem Details
 | Source | Problem Link | Problem No| 
 |------------|-------------|-------------|
-| LeetCode | [ Generate Parenthesis ](https://leetcode.com/problems/generate-parentheses/description/)) | 22 |
+| LeetCode | [ Generate Parenthesis ](https://leetcode.com/problems/generate-parentheses/description/) | 22 |
 
 ## Problem Statement
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
