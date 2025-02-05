@@ -3,7 +3,7 @@
 ## Problem Details
 | Source | Problem Link | Problem No| 
 |------------|-------------|-------------|
-| GeeksForGeeks | [Better String]([https://leetcode.com/problems/swap-nodes-in-pairs/](https://www.geeksforgeeks.org/problems/better-string/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=better-string)) | null |
+| GeeksForGeeks | [Better String](https://www.geeksforgeeks.org/problems/better-string/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=better-string/) | null |
 
 ## Problem Statement
 Given a pair of strings of equal lengths, Geek wants to find the better string. The better string is the string having more number of distinct subsequences.
