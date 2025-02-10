@@ -1,9 +1,9 @@
-# Subsets
+# Sudoku solver
 
 ## Problem Details
 | Source | Problem Link | Problem No| 
 |------------|-------------|-------------|
-| LeetCode | [ Subsets ](https://leetcode.com/problems/sudoku-solver/) | 37 |
+| LeetCode | [ Sudoku solver ](https://leetcode.com/problems/sudoku-solver/) | 37 |
 
 ## Problem Statement
 Write a program to solve a Sudoku puzzle by filling the empty cells.
